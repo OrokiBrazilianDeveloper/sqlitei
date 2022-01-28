@@ -2,6 +2,6 @@
     "user": "OrokiBrazilianDeveloper",
     "repo": "sqlitei",
     "entry": "sqlitei-tests.pwn",
-    "output": "sqlitei-tests.amx"
+    "output": "sqlitei-tests.amx",
     "dependencies": ["sampctl/samp-stdlib"]
 }
